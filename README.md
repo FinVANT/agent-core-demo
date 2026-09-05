@@ -1,9 +1,17 @@
-# Agent Core — 공개 데모 백엔드
+<div align="center">
+
+# 🎭 Agent Core — 공개 데모 백엔드
 
 **[`agent-core-fe`](https://github.com/FinVANT/agent-core-fe)(제품과 동일한 FE)가 공개
 데모로 배포될 때 붙는, 실제 로직 없는 목업 백엔드**
 
+[![No DB](https://img.shields.io/badge/storage-none-lightgrey)](./ADR/ADR-001-stateless-ticket-encoding.md)
+[![Mock Logic](https://img.shields.io/badge/logic-100%25%20mock-red)](./BRD.md)
+[![Vercel](https://img.shields.io/badge/runtime-Vercel%20Functions-black)](https://vercel.com)
+
 [ERD](./ERD.md) · [BRD](./BRD.md) · [ADR](./ADR)
+
+</div>
 
 ---
 
