@@ -1,0 +1,9 @@
+{
+  "name": "agent-core-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "agent-core-fe가 붙는 공개 데모용 목업 백엔드. 실제 로직 없음 — Vercel 서버리스 함수만 있다.",
+  "engines": {
+    "node": ">=18"
+  }
+}
